@@ -1,4 +1,4 @@
-![logo](https://github.com/Avinash-kumar-1932/Avinash-kumar-1932/blob/main/githubbanner.jpeg)
+![logo](https://github.com/Avinash-kumar-1932/Avinash-kumar-1932/blob/main/IOTA-for-IoT-1.jpg)
 <h1 align="center">Hi 👋, I'm Avinash kumar</h1>
 <h3 align="center">A passionate solana application developer from India</h3>
 <img align="right" alt="coding" width="400"
